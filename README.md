@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Asmita 👋
 
-<!--
-**asmitalimbhore/asmitalimbhore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 IT Analyst | ☁️ Cloud & Security Enthusiast
 
-Here are some ideas to get you started:
+## What I Do
+- Incident & application troubleshooting
+- Windows & Microsoft 365 support
+- Network troubleshooting (DNS, DHCP, TCP/IP)
+- System performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Microsoft Azure
+- Linux Administration
+- PowerShell Automation
+- Security Fundamentals
+
+## Career Goal
+Cloud Engineer | Cloud Security Engineer | SOC Analyst
