@@ -1,18 +1,21 @@
-# Hi, I'm Asmita 👋
+Hi, I'm Asmita 👋
+💼 IT Analyst | ☁️ Exploring Cloud & DevOps
 
-💼 IT Analyst | ☁️ Cloud & Security Enthusiast
+💻 What I Do
+-IT and application troubleshooting
+-Windows and Microsoft 365 support
+-Network troubleshooting
+-System support and fixing issues
 
-## What I Do
-- Incident & application troubleshooting
-- Windows & Microsoft 365 support
-- Network troubleshooting (DNS, DHCP, TCP/IP)
-- System performance optimization
+📚 Currently Learning
+-Microsoft Azure
+-Linux Administration
+-Git and GitHub
+-Docker
+-PowerShell and Bash scripting
+-CI/CD
+-Cloud Security
 
-## Currently Learning
-- Microsoft Azure
-- Linux Administration
-- PowerShell Automation
-- Security Fundamentals
+🚀 What I'm Working Towards
+Building my skills in Cloud and DevOps through hands-on learning and practical projects.
 
-## Career Goal
-Cloud Engineer | Cloud Security Engineer | SOC Analyst
